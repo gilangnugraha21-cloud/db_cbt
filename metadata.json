@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aplikasi CBT Sekolah",
+  "description": "Sistem Ujian Berbasis Komputer (CBT) Sekolah dengan RBAC (Admin, Guru, Siswa), 6 Tipe Soal, Fitur Anti-Cheat, Token, Export/Import Data, dan SQL DDL Generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
